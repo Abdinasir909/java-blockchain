@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+bin/
+out/
+
+# Dependencies
+lib/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Wrapper
+gradlew
+gradlew.bat
